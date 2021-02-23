@@ -1,3 +1,9 @@
 [submodule "skinsdb"]
 	path = skinsdb
 	url = https://github.com/minetest-mods/skinsdb.git
+[submodule "3d_armor_flyswim"]
+	path = 3d_armor_flyswim
+	url = https://github.com/sirrobzeroone/3d_armor_flyswim.git
+[submodule "beauty_pack"]
+	path = beauty_pack
+	url = https://github.com/tiborvansa/minetest-beauty_pack.git
